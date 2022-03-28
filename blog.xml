@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE BLOG SYSTEM "blog.dtd">
+
+<BLOG>
+<ARTICULO>
+    <TITULO>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</TITULO>
+    <INFORMACION>
+      <AUTOR>Autor: Fernando Muñoz</AUTOR>
+      <FECHA>Fecha de publicación: 22-03-2022</FECHA>
+    </INFORMACION>
+    <CONTENIDO>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic tempora corrupti quo, magnam atque inventore? Nam rerum libero dolor error tenetur sunt exercitationem sint, alias unde obcaecati voluptatem tempora iure!
+      Ipsum similique impedit rem tempore nobis cumque explicabo fugit, inventore nemo. Adipisci, molestias explicabo! Quam quisquam alias deserunt officiis eius qui, unde aliquam laboriosam pariatur. Soluta sapiente voluptatibus architecto tempore?
+      Reiciendis libero saepe molestias. Et officia odit maiores perspiciatis, iure consectetur accusantium sint asperiores temporibus eius cupiditate quasi inventore, optio vel eum minus, repellat debitis exercitationem dolores eveniet consequatur id.
+    </CONTENIDO>
+    <SUBTITULO>Lorem ipsum dolor sit amet consectetur adipisicing elit.</SUBTITULO>
+    <NOTA>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam pariatur modi veritatis reiciendis amet iste, perspiciatis accusantium odio esse! Molestiae molestias, eum voluptatem quaerat amet tenetur aut ducimus ratione quae?
+    </NOTA>
+    <CONTENIDO>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iste doloribus asperiores facilis maiores, hic ab ex tempora ratione aliquid molestiae rem architecto libero assumenda? Provident, alias quisquam. Accusantium, modi.
+      Molestiae ratione, vero architecto et neque praesentium vel vitae labore nobis distinctio ullam, id amet ipsa itaque libero dolores assumenda dolorum consequuntur quae temporibus eius cumque reiciendis nisi? Optio, molestiae!
+      Eligendi, modi! Dolor magni illum nobis modi quo laboriosam aspernatur unde repellendus veritatis rem? Nobis incidunt impedit ex consectetur. Amet nihil repellendus quidem illo praesentium eum error qui doloribus porro?
+    </CONTENIDO>
+</ARTICULO>
+
+<ARTICULO>
+    <TITULO>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</TITULO>
+    <INFORMACION>
+      <AUTOR>Autor: Fernando Muñoz</AUTOR>
+      <FECHA>Fecha de publicación: 22-03-2022</FECHA>
+    </INFORMACION>
+    <CONTENIDO>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic tempora corrupti quo, magnam atque inventore? Nam rerum libero dolor error tenetur sunt exercitationem sint, alias unde obcaecati voluptatem tempora iure!
+      Ipsum similique impedit rem tempore nobis cumque explicabo fugit, inventore nemo. Adipisci, molestias explicabo! Quam quisquam alias deserunt officiis eius qui, unde aliquam laboriosam pariatur. Soluta sapiente voluptatibus architecto tempore?
+      Reiciendis libero saepe molestias. Et officia odit maiores perspiciatis, iure consectetur accusantium sint asperiores temporibus eius cupiditate quasi inventore, optio vel eum minus, repellat debitis exercitationem dolores eveniet consequatur id.
+    </CONTENIDO>
+    <SUBTITULO>Lorem ipsum dolor sit amet consectetur adipisicing elit.</SUBTITULO>
+    <NOTA>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam pariatur modi veritatis reiciendis amet iste, perspiciatis accusantium odio esse! Molestiae molestias, eum voluptatem quaerat amet tenetur aut ducimus ratione quae?
+    </NOTA>
+    <CONTENIDO>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iste doloribus asperiores facilis maiores, hic ab ex tempora ratione aliquid molestiae rem architecto libero assumenda? Provident, alias quisquam. Accusantium, modi.
+      Molestiae ratione, vero architecto et neque praesentium vel vitae labore nobis distinctio ullam, id amet ipsa itaque libero dolores assumenda dolorum consequuntur quae temporibus eius cumque reiciendis nisi? Optio, molestiae!
+      Eligendi, modi! Dolor magni illum nobis modi quo laboriosam aspernatur unde repellendus veritatis rem? Nobis incidunt impedit ex consectetur. Amet nihil repellendus quidem illo praesentium eum error qui doloribus porro?
+    </CONTENIDO>
+    <NOTA>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam pariatur modi veritatis reiciendis amet iste, perspiciatis accusantium odio esse! Molestiae molestias, eum voluptatem quaerat amet tenetur aut ducimus ratione quae?
+    </NOTA>
+</ARTICULO>
+
+<ARTICULO>
+    <TITULO>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</TITULO>
+    <INFORMACION>
+      <AUTOR>Autor: Fernando Muñoz</AUTOR>
+      <FECHA>Fecha de publicación: 22-03-2022</FECHA>
+    </INFORMACION>
+    <CONTENIDO>
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic tempora corrupti quo, magnam atque inventore? Nam rerum libero dolor error tenetur sunt exercitationem sint, alias unde obcaecati voluptatem tempora iure!
+      Ipsum similique impedit rem tempore nobis cumque explicabo fugit, inventore nemo. Adipisci, molestias explicabo! Quam quisquam alias deserunt officiis eius qui, unde aliquam laboriosam pariatur. Soluta sapiente voluptatibus architecto tempore?
+      Reiciendis libero saepe molestias. Et officia odit maiores perspiciatis, iure consectetur accusantium sint asperiores temporibus eius cupiditate quasi inventore, optio vel eum minus, repellat debitis exercitationem dolores eveniet consequatur id.
+    </CONTENIDO>
+    <SUBTITULO>Lorem ipsum dolor sit amet consectetur adipisicing elit.</SUBTITULO>
+    <NOTA>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam pariatur modi veritatis reiciendis amet iste, perspiciatis accusantium odio esse! Molestiae molestias, eum voluptatem quaerat amet tenetur aut ducimus ratione quae?
+    </NOTA>
+    <CONTENIDO>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iste doloribus asperiores facilis maiores, hic ab ex tempora ratione aliquid molestiae rem architecto libero assumenda? Provident, alias quisquam. Accusantium, modi.
+      Molestiae ratione, vero architecto et neque praesentium vel vitae labore nobis distinctio ullam, id amet ipsa itaque libero dolores assumenda dolorum consequuntur quae temporibus eius cumque reiciendis nisi? Optio, molestiae!
+      Eligendi, modi! Dolor magni illum nobis modi quo laboriosam aspernatur unde repellendus veritatis rem? Nobis incidunt impedit ex consectetur. Amet nihil repellendus quidem illo praesentium eum error qui doloribus porro?
+    </CONTENIDO>
+</ARTICULO>
+</BLOG>
